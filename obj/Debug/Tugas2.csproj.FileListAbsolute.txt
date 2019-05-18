@@ -1,0 +1,7 @@
+D:\18.11.2247\Tugas2\Tugas2\bin\Debug\Tugas2.exe.config
+D:\18.11.2247\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+D:\18.11.2247\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+D:\18.11.2247\Tugas2\Tugas2\obj\Debug\Tugas2.csprojAssemblyReference.cache
+D:\18.11.2247\Tugas2\Tugas2\obj\Debug\Tugas2.csproj.CoreCompileInputs.cache
+D:\18.11.2247\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+D:\18.11.2247\Tugas2\Tugas2\obj\Debug\Tugas2.pdb
